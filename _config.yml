@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Clay Roberts
+title: Clay Waddell
 
 # Short description of your site
 description: A brief history of my time at Lambda
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Clay Roberts
+  name: Clay Waddell
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "CLoganRoberts@Gmail.com"
+  email: "ClayWaddell@Gmail.com"
   github: HakujouRyu.GitHub.com
   twitter: twitter.com/hakujouryu
 #  FaceBook: 
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ClayWaddell.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
