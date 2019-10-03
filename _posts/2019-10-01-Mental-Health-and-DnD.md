@@ -10,7 +10,7 @@ comments: true
 
 While this may not be Data Science directly, I wrote this paper during my freshman year, 
 and I really found a passion. So, I thought I'd share.  
-The research I did for this paper really inspired me and I hpe that it inspires you, too.
+The research I did for this paper really inspired me and I hope that it inspires you, too.
 
 Storytelling has been an integral part of human civilization for longer than humanity has possessed written language. These stories, whether true or not, teach us how the world works, and allow us to exercise our minds to cope with the difficulties in this world. Overcoming the challenges of this world is more demanding for some, and building a deeply personal story with a group can be just what people need. Storytelling games like Dungeons and Dragons (D&D), akin to the legends of yore,  focus on teamwork and overcoming against incredible odds. There have been numerous studies into the potential side effects of role-playing games, and one thing has become clear; Utilizing games such as D&D in a therapeutic setting would be beneficial, especially in situations where the patient is suffering from social anxieties.
 
