@@ -2,8 +2,6 @@
 layout: post
 title: Save the Player, Save the World
 subtitle: A short paper highlighting a passion of mine.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Mental-Health, D&D, Off-Topic]
 comments: true
 ---
