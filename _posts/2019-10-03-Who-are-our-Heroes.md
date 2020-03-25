@@ -2,6 +2,8 @@
 layout: post
 title: Who are our Heroes?
 subtitle: Part 1?
+gh-repo: HakujouRyu/DnD_Project
+gh-badge: [star, fork, follow]
 tags: [D&D]
 comments: true
 ---
