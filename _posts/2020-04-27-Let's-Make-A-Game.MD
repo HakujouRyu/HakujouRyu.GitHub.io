@@ -20,7 +20,7 @@ I built a galaxy shooter game. I learned a lot this weekend, I learned the basic
 and I also learned that game development takes longer than I expected! Though, I will say that it was very rewarding. 
 When it was time to ship the V1.0 of my game I was elated. 
 
-I have pushed it to GitHub, (obviously) but I also ported it to WebGL so that you can play it too! >>> [HERE](https://github.com/HakujouRyu/HakujouRyu.GitHub.io/tree/master/Games/GalaxyShooter) <<<
+I have pushed it to GitHub, (obviously) but I also ported it to WebGL so that you can play it too! >>> [HERE](http://www.claywaddell.com/Games/GalaxyShooter/) <<<
 
 The controls are simple: WASD and SPACE.  The gameplay loop fully starts once you destroy the asteroid. (You monster)
 You may pause the game by pressing ESC or P. Have fun, and please hit me with any bugs you find! :) 
