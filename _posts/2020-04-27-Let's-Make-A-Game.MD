@@ -4,7 +4,7 @@ title: Let's Make a Game!
 subtitle: I wanted to learn a new language.
 gh-repo: HakujouRyu/Galaxy-Shooter
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [GameDev, C#]
 comments: true
 ---
 
