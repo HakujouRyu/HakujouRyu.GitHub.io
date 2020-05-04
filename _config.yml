@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Clay Waddell
+title: Clay Roberts
 
 # Short description of your site
 description: A brief history of my time at Lambda
@@ -22,8 +22,8 @@ description: A brief history of my time at Lambda
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Games: "http://www.claywaddell.com/Games/GalaxyShooter/"
+    
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -60,7 +60,7 @@ footer-link-col: "#9AC2C9"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Clay Waddell
+  name: Clay Roberts (Waddell)
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,20 +75,20 @@ social-network-links:
 #  reddit: yourname
   linkedin: ccrw
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "11013286/clay-roberts"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: Hakujou
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
