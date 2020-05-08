@@ -10,13 +10,19 @@ comments: true
 
 Story squad is an app designed to reduce a user's screen time. Strange? Maybe. Effective? I'd like to think so. The core gameplay loop for Story Squad is as follows: 
 
-1) Read a story prompt.
-2) Use your imagination along with the classic pen and paper combination to come up with a short story AND an illustration.
-3) Submit your creations to be paired with another person.
-4) Divvy points amongst your team's submissions as a wager.
-5) Have your submissions judged by a third party.
-6) Win the combined points for each submission judged in your favor.
-7) Wait for next week to do it again!
+>1) Read a story prompt.
+>
+>2) Use your imagination along with the classic pen and paper combination to come up with a short story AND an illustration.
+>
+>3) Submit your creations to be paired with another person.
+>
+>4) Divvy points amongst your team's submissions as a wager.
+>
+>5) Have your submissions judged by a third party.
+>
+>6) Win the combined points for each submission judged in your favor.
+>
+>7) Wait for next week to do it again!
 
 There are some areas in this loop in which Data Science could prove useful, some more obvious than others. If the user is submitting a handwritten story, but we ultimately want the user to see typed text, we'll need some sort of OCR model. If we are pairing these kids up across multiple age groups, how should we do that? We could have a human read everyone and pair them up manually, or maybe we could find a model to that for us too...
 
