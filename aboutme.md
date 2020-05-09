@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to meet me in person
 ---
 
-My name is Clay Waddell, and here is a bullet list about me:
+My name is Clay Roberts, and here is a bullet list about me:
 
 - I have a varied employment history.
 - I'm a huge nerd.
