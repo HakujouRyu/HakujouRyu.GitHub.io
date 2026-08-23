@@ -1,3 +1,6 @@
+# ⚠️OUT OF USE ⚠️
+The new portfolio page, [claywaddell.com](https://www.claywaddell.com), is now built with next.js and is hosted by [Vercel](https://vercel.com/)
+
 
 ### Table of contents
 
